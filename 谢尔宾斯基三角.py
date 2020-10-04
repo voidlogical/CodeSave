@@ -45,3 +45,4 @@ points = {
 sierpinski(6, points)
 t.hideturtle()
 turtle.done()
+print("hello world")
